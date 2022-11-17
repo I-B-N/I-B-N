@@ -1,0 +1,6 @@
+- uuuhhhh
+- ummmmm
+- aaaaaaa
+- eu programo?
+- js, ts, angular 14
+- Desenvonvendo baguis para o IFRN
