@@ -1,6 +1,3 @@
-- uuuhhhh
-- ummmmm
-- aaaaaaa
 - eu programo?
-- js, ts, angular 14
+- js, ts, angular 14, express, python
 - Desenvonvendo baguis para o IFRN
