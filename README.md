@@ -1,3 +1,3 @@
 - eu programo?
-- js, ts, angular 14, express, python
-- Desenvonvendo baguis para o IFRN
+- js, ts, angular 14, express, python, C++, C
+- Desenvonvendo baguis para eu mesmo
